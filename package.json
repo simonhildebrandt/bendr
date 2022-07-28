@@ -1,7 +1,7 @@
 {
-  "name": "my-webapp-starter",
+  "name": "bendr",
   "version": "1.0.0",
-  "description": "Basic Browserify/Babel/React stack",
+  "description": "A bendy word game",
   "main": "index.js",
   "author": "Simon Hildebrandt <simonhildebrandt@gmail.com>",
   "license": "MIT",
@@ -14,8 +14,11 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "esbuild": "^0.14.18",
+    "framer-motion": "^6.2.8",
     "live-server": "^1.2.1",
+    "matter-js": "^0.18.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.3.3"
   }
 }
